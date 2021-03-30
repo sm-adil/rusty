@@ -1,0 +1,10 @@
+{
+  "name": "@rusty/bike",
+  "license": "MIT",
+  "private": true,
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo testing bike with version: $npm_package_version"
+  }
+}
